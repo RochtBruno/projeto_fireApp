@@ -2,6 +2,7 @@
 
 Projeto feito em reactjs, baseia-se num sistema de login de usuários e também cadastramento, exibição, atualização e remoção de publicações feitas por um usuário.
 No projeto utiliza-se firebase como banco de dados. Interface simples e intuitiva pois se trata de um projeto em sua primeira versão e também é um protótipo teste.
+O sistema se encontra funcionando no seguinte link: https://projetofirebase.netlify.app/
 
 Como usar a aplicação?
 - Para o login/logout de usuário <br/>
